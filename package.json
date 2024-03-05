@@ -5,5 +5,8 @@
   "main": "index.js",
   "author": "@hibittrade68",
   "repository": "https://github.com/hieunv6/tea-xyz-quest",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@hibittrade68/tea-xyz-quest": "^1.0.0"
+  }
 }
